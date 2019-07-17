@@ -8,4 +8,4 @@ A simple forum with login Function running on the local area network.
 * Simple Forum
 * Django
 * Login with code
-* alowed Juyter book and run the jupyter notebook on this website
+* alowed sharing Juyter book and run the jupyter notebook on LAN.
